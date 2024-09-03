@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "273886623532",
+    "project_id": "cs326n-busproject",
+    "storage_bucket": "cs326n-busproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273886623532:android:adafa91d481fdaeca4de89",
+        "android_client_info": {
+          "package_name": "com.example.bus_reservation_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuPa0YAVRLaszAV6CQVkCgfnP76Td-Fes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273886623532:android:6e85e6b971f5e828a4de89",
+        "android_client_info": {
+          "package_name": "com.example.msa_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuPa0YAVRLaszAV6CQVkCgfnP76Td-Fes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
